@@ -2,7 +2,7 @@ README
 
 Título: Labefy
 
-Descrição: Um website no estilo spotfy para gerenciar e escutar músicas!
+Descrição: Um website projetado para gerenciar e escutar músicas!
 
 Funcionalidades: Adição e remoção de playlists,
                  Adição, remoção, busca e player de música. 
