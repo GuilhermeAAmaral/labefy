@@ -2,10 +2,9 @@ README
 
 Título: Labefy
 
-Descrição: Um website projetado para gerenciar e escutar músicas!
+Descrição: Um website projetado para gerenciar e escutar música!
 
-Funcionalidades: Adição e remoção de playlists,
-                 Adição, remoção, busca e player de música. 
+Funcionalidades: Adição e remoção de playlists, buscador e player de música. 
                  
                 
 Ferramentas, dependências e libs instaladas: React JS, Axios, Styled-Components, React Router Dom.
